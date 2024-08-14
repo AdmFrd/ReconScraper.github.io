@@ -1,0 +1,17 @@
+Alphard 2.5 G S C Package,2019-2022,https://www.carlist.my/used-cars-for-sale/toyota/alphard/2-5-g-s-c-package/year-targetyr/malaysia?page_size=25&page_number=1
+Alphard 2.5 G S,2019-2022,https://www.carlist.my/used-cars-for-sale/toyota/alphard/2-5-g-s/year-targetyr/malaysia?page_size=25
+Alphard 3.5,2019-2022,https://www.carlist.my/used-cars-for-sale/toyota/alphard/3-5/year-targetyr/malaysia?page_size=25
+Alphard 3.5 G S C Package,2019-2022,https://www.carlist.my/recon-cars-for-sale/toyota/alphard/3-5-g-s-c-package/year-targetyr/malaysia?page_size=25&page_number=1
+Alphard Modelista,2019-2022,https://www.carlist.my/recon-cars-for-sale/toyota/alphard/2-5-g-s-c-package/year-targetyr/malaysia?keyword=modelista&page_size=25
+Alphard Trd,2019-2022,https://www.carlist.my/recon-cars-for-sale/toyota/alphard/2-5-g-s-c-package/year-targetyr/malaysia?keyword=trd&page_size=25&page_number=1 
+Alphard Sunroof,2019-2022,https://www.carlist.my/recon-cars-for-sale/toyota/alphard/2-5-g-s-c-package/year-targetyr/malaysia?keyword=sunroof&page_size=25
+Vellfire 2.5 Z G Edition,2019-2022,https://www.carlist.my/used-cars-for-sale/toyota/vellfire/2-5-z-g-edition/year-targetyr/malaysia?page_size=25&page_number=1
+Vellfire 2.5 Z A Edition,2019-2022,https://www.carlist.my/used-cars-for-sale/toyota/vellfire/2-5-z-a-edition/year-targetyr/malaysia?page_size=25&page_number=1
+Vellfire Modelista,2019-2022,https://www.carlist.my/recon-cars-for-sale/toyota/vellfire/2-5-z-g-edition/year-targetyr/malaysia?keyword=modelista&page_size=25&page_number=1 
+Vellfire Trd,2019-2022,https://www.carlist.my/recon-cars-for-sale/toyota/vellfire/2-5-z-g-edition/year-targetyr/malaysia?keyword=trd&page_size=25&page_number=1
+Vellfire Sunroof,2019-2022,https://www.carlist.my/recon-cars-for-sale/toyota/vellfire/2-5-z-g-edition/year-targetyr/malaysia?keyword=sunroof&page_size=25&page_number=1 
+Harrier 2.0,2020-2022,https://www.carlist.my/used-cars-for-sale/toyota/harrier/2-0/year-targetyr/malaysia?page_size=25&page_number=1
+Harrier 2.0 Luxury,2020-2022,https://www.carlist.my/used-cars-for-sale/toyota/harrier/2-0-luxury/year-targetyr/malaysia?page_size=25&page_number=1
+Harrier Z,2020-2022,https://www.carlist.my/recon-cars-for-sale/toyota/harrier/2-0/year-targetyr/malaysia?keyword=Z&page_size=25&page_number=1
+Harrier G,2020-2022,https://www.carlist.my/recon-cars-for-sale/toyota/harrier/2-0/year-targetyr/malaysia?keyword=G&page_size=25&page_number=1
+Harrier Modelista,2020-2022,https://www.carlist.my/recon-cars-for-sale/toyota/harrier/2-0/year-targetyr/malaysia?keyword=modelista&page_size=25&page_number=1

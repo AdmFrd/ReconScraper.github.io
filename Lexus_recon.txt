@@ -1,0 +1,4 @@
+Nx300 2.0 F Sport,2019-2022,https://www.carlist.my/recon-cars-for-sale/lexus/nx300/2-0-f-sport/year-targetyr/malaysia?page_size=25&page_number=1
+Rx300 2.0 F Sport,2019-2022,https://www.carlist.my/recon-cars-for-sale/lexus/rx300/2-0-f-sport/year-targetyr/malaysia?page_size=25&page_number=1
+Ux200 2.0 F Sport,2019-2022,https://www.carlist.my/recon-cars-for-sale/lexus/ux200/2-0-f-sport/year-targetyr/malaysia?page_size=25&page_number=1
+Is300 2.0 F Sport,2019-2022,https://www.carlist.my/recon-cars-for-sale/lexus/is300/2-0-f-sport/year-targetyr/malaysia?page_size=25&page_number=1

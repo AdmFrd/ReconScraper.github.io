@@ -1,0 +1,19 @@
+A180 AMG Line,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/a-class/a180/1-3-amg-line/year-targetyr/malaysia?keyword=hatchback&page_size=25&page_number=1
+A Hatchback sunroof,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/a-class/year-targetyr/malaysia?keyword=hatchback+sunroof&page_size=25&page_number=1
+A250 2.0 AMG Line,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/a-class/a250/2-0-amg-line/year-targetyr/malaysia?page_size=25&page_number=1
+A35 Amg 2.0 4MATIC,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/a-class/a35-amg/2-0-4matic/year-targetyr/malaysia?page_size=25&page_number=1
+Cla180 1.3 AMG Line,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/cla-class/cla180/1-3-amg-line/year-targetyr/malaysia?page_size=25&page_number=1
+Cla200 1.3 AMG Line,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/cla-class/cla200/1-3-amg-line/year-targetyr/malaysia?page_size=25&page_number=1
+Cla220 2.0 AMG Line Premium,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/cla-class/cla220/2-0-amg-line-premium/year-targetyr/malaysia?page_size=25&page_number=1
+Cla250 2.0 4MATIC AMG Line,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/cla-class/cla250/2-0-4matic-amg-line/year-targetyr/malaysia?page_size=25&page_number=1
+Cla35 Amg 2.0 4MATIC P.P,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/cla-class/cla35-amg/2-0-4matic-premium-plus/year-targetyr/malaysia?page_size=25&page_number=1
+Cla45 Amg 2.0 S,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/cla-class/cla45-amg/2-0-s/year-targetyr/malaysia?page_size=25&page_number=1
+E300 2.0 AMG Line,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/e-class/e300/2-0-amg-line/year-targetyr/malaysia?page_size=25&page_number=1
+Glc250 2.0 4MATIC AMG Line,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/glc-class/glc250/2-0-4matic-amg-line/year-targetyr/malaysia?page_size=25&page_number=1
+Glc300 2.0 4MATIC AMG Line,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/glc-class/glc300/2-0-4matic-amg-line/year-targetyr/malaysia?page_size=25&page_number=1
+Glc43 Amg 3.0 4MATIC,2019-2022,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/glc-class/glc43-amg/3-0-4matic/year-targetyr/malaysia?page_size=25&page_number=1
+Gla180,2019-2020,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/gla-class/gla180/year-targetyr/malaysia?page_size=25&page_number=1
+Gla200,2019-2020,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/gla-class/gla200/year-targetyr/malaysia?page_size=25&page_number=1
+Gla220,2019-2020,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/gla-class/gla220/year-targetyr/malaysia?page_size=25&page_number=1
+Gla250,2019-2020,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/gla-class/gla250/year-targetyr/malaysia?page_size=25&page_number=1
+Gla45 Amg 2.0 4MATIC,2019-2020,https://www.carlist.my/recon-cars-for-sale/mercedes-benz/gla-class/gla45-amg/2-0-4matic/year-targetyr/malaysia?page_size=25&page_number=1
